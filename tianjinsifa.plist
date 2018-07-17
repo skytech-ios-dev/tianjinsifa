@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.116.231/tjsfoa/ios/phone/tisf.ipa</string>
+                        <string>http://192.168.116.231:8002/tjsfoa/ios/phone/tisf.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://192.168.116.231/tjsfoa/ios/phone/icon.png</string>
+                        <string>http://192.168.116.231:8002/tjsfoa/ios/phone/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://www.12348.gov.cn/sfbMobile/ios/phone/itunes-icon.png</string>
+                        <string>http://192.168.116.231:8002/tjsfoa/ios/phone/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
